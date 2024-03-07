@@ -1,6 +1,6 @@
 # ¡Hola! Soy Adrian! 👨🏼‍💻😀
 
-<img src="https://media.licdn.com/dms/image/D4E16AQH7fIb2YGTVRw/profile-displaybackgroundimage-shrink_350_1400/0/1709666338507?e=1715212800&v=beta&t=4DI6GzmFCcl52HrqADkMnQyzB6-fl0HgyO0Oj7K7jMQ" alt="¡Hola! Soy Adrian!">
+<img src="bigdata.jpeg" alt="¡Hola! Soy Adrian!">
 
 <p>Soy desarrollador de back-end. Perseverante, proactivo e inquieto por naturaleza. </p>
 
